@@ -1,31 +1,32 @@
+# Walteircf
+
 - 👋 Hi, I’m Walteir Coelho
 - 👀 I’m interested in publicizing my projects and ideas, developing new plans and meeting people, creating a circle for transmitting and sharing knowledge and content.
 - 📫 I'm studying Information Systems at Estácio University.
-- 🌱 I currently have specialized knowledge in C#, Python, Web Development, Data Analysis, AI and Database Systems Management
+- 🌱 I currently have specialized knowledge in C#, .NET, Python, Web Development, Data Analysis, AI and Database Systems Management
 - 💞️ I’m looking to collaborate with ideas, new projects, problem solving and knowledge in general.
-- 📫 I work in property sales, and I am a BI Analyst, working with data analysis, automated software development, results management and improvements for the company
+- 📫 I work with the development of chatbots and AI agents with a focus on telecommunications and customer service
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walteircf&bg_color=00000000)](https://github.com/walteircf/github-readme-stats)
+## Meus status
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](#) 
-[![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)](#) 
-[![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)](#)
-[![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)](#)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/-Django-000?&logo=Django)](https://www.djangoproject.com/)
-[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=Visual%20Studio)](https://visualstudio.microsoft.com/)
-[![C#](https://img.shields.io/badge/-C%23-000?&logo=CSharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://www.mysql.com/)
-[![MSSQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?&logo=Microsoft%20SQL%20Server)](https://www.microsoft.com/en-us/sql-server)
-[![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)](https://www.mysql.com/)
-[![Oracle](https://img.shields.io/badge/-Oracle%20DB-000?&logo=Oracle)](https://www.oracle.com/database/)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=walteircf&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+## Habilidades
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ---
+## Conecte-se comigo
 
-[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)](mailto:walteircf@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/walteir-coelho-de-freitas-filho-9a200b17a/)
-
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walteircf/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/walteircf/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:wcfreitasf@gmail.com)
